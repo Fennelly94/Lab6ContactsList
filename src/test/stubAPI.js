@@ -32,7 +32,7 @@ var stubAPI = {
            function(contact) {
                  return contact.phone_number === k;
               });
-       return elements; 
+       return  elements; 
 	 },
 	 getAll : function() {
 	     return contacts ;
